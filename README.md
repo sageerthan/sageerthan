@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)
+![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)
 <h1 align="center">Hi 👋, I'm Sageerthan Sathiaparan</h1>
 <h3 align="center">A Software Engineering undergraduate at University of Kelaniya, Sri Lanka.</h3>
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sathiaparan-sageerthan-9b4700242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathiaparan-sageerthan-9b4700242/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sathiaparan-sageerthan-9b4700242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathiaparan-sageerthan-9b4700242/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sageerthan30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sageerthan30" height="30" width="40" /></a>
 </p>
 
